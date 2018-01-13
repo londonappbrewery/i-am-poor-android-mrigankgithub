@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">I Am Poor</string>
-    <string name="title">I am COAL APP made by MRIGANK</string>
+    <string name="title">I am POOR </string>
+    <string name="title0">by</string>
+    <string name="title1">MRIGANK</string>
     <string name="contentDescription">TODO</string>
 </resources>
